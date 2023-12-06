@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">UTSMP3_002</string>
+    <string name="app_name">utsmp3_002</string>
+    <integer-array name="data_img">
+        <item>@drawable/image_yoga</item>
+        <item>@drawable/image_gym</item>
+        <item>@drawable/image_cardio</item>
+        <item>@drawable/image_stretch</item>
+        <item>@drawable/image_yoga</item>
+    </integer-array>
+    <string-array name="data_name">
+        <item>Yoga</item>
+        <item>Gym</item>
+        <item>Cardio</item>
+        <item>Stretch</item>
+        <item>Full Body</item>
+    </string-array>
 </resources>
